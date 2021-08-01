@@ -1,0 +1,13 @@
+.notes-input {
+  border: rgb(82, 124, 73) 1px solid;
+}
+
+.notes {
+  width: 300px;
+}
+
+.notes-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
